@@ -7,3 +7,5 @@ def check_name_length(name):
         print("Wow, your name is quite long!")
     else:
         print("Your name has a good length.")
+
+check_name_length(name)
