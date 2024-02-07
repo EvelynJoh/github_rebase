@@ -17,4 +17,6 @@ while True:
         check_name_length(new_name)
     else:
         print("Thank you for using this program!")
+        breaklast change, text added
+
         breakfeature added
